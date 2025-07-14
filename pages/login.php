@@ -18,6 +18,9 @@
     <div class="raw">Mot_de_passe :  <div class="rempl"><input type="password" name="mdp"></div></div>
     <input type="submit" value="Connexion" class="con">
     </form>
+    <form action="../index.php" method="post">
+    <input type="submit" value="Retour" class="co">
+    </form>
     </div>
 </body>
 </html>

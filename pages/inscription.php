@@ -22,5 +22,8 @@
             <input type="submit" value="Creer" class="con">
         </div>
         </form>
+        <form action="../index.php" method="post">
+            <input type="submit" value="Retour" class="con">
+        </form>
 </body>
 </html>

@@ -12,8 +12,8 @@
         <h2>Bienvenue </h2>
         <div class="formulaire">
             <div class="text">Pour continuer, Veuillez vous inscrire ou vous connecter</div>
-            <div class="create"><a href="pages/login.php">S'inscrire</a></div>
-            <div class="connect"><a href="pages/inscription.php">Se connecter</a></div>
+            <div class="create"><a href="pages/login.php">Se connecter</a></div>
+            <div class="connect"><a href="pages/inscription.php">S'inscrire</a></div>
     </div>
     </form>
 </body>
